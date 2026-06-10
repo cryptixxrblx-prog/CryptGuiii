@@ -26,30 +26,8 @@ else
 	prefix = cmdldata.Prefix.Local
 end
 --[[local whitelisted = {
-	"OMAR82ALI",
-   	"K_nr6l",
-	"RideTheWave69K",
-	"lexus_prius4",
-	"fatsy_mcfast",
-	"excrusworstnightmare",
-	"A_Normalxsx",
-	"thaetag",
-	"mE_withfats",
-	"Romazdev",
-	"RideTheWave69420",
-	"RomazDevLegacy",
-	"altamit",
-	"dortady",
-	"TCOLagSpiker",
-	"Prosigma5437",
-	"yeahimlosts",
-	"hjnmjuhjhk6",
-	"WATCH_MEFRONTFLIP",
-	"0ut0fthe0rdinary0",
-	"normalxsx_casual8",
-	"i11rlWWL",
-	"teleyoo",
-	"mr penis",
+	"BobIsCoolyip", 
+    " SLAPBATTLES123087"
 }]]
 local FriendAccount = 10260398226
 if getgenv().tcocmddestroy then
